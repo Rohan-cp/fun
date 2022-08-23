@@ -14,7 +14,7 @@ export class TaskItemComponent implements OnInit {
     day: 'May 5th at 2:30pm',
     reminder: true,
   };
-  faTimes = faTimes
+  faTimes = faTimes;
   constructor() {}
 
   ngOnInit(): void {}
